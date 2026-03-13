@@ -1,0 +1,1 @@
+WholeLots.com is an innovative e-commerce platform enabling customers to commit to product lots listed by manufacturers for pooled bulk purchases, unlike traditional unit sales. Customers increment buy-in counts, with lots locking upon reaching targets to trigger notifications, payments, and shipping.
